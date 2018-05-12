@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5305
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Desmond_Sheehan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13963#Ireland-Since-Parnell
 gutenberg_issued: '2004-11-05'
 gutenberg_type: Text
 identifiers:
