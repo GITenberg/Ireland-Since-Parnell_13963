@@ -1,0 +1,30 @@
+_repo: Ireland-Since-Parnell_13963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheehan, D. D. (Daniel Desmond)
+    alias: Sheehan, Daniel Desmond
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '5305'
+    url: http://www.gutenberg.org/2009/agents/5305
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Desmond_Sheehan
+description: ''
+gutenberg_issued: '2004-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13963'
+  lccn: '22008159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government'
+- !lcc 'DA'
+- !lcsh 'Irish question'
+title: Ireland Since Parnell
+url: http://www.gutenberg.org/ebooks/13963
